@@ -3,11 +3,14 @@ secondary_name: ""
 navbar_name: "Junrong Chen"
 
 positions:
-  - name: B.S. Student, UC San Diego (Mathematics–CS & Cognitive Science: ML)
-  - name: Research Assistant, MixLab (Prof. Zhiting Hu), UCSD
-  - name: Undergraduate Researcher, Jennifer J. Sun Lab, Cornell University
-  - name: Lead Researcher, Language Acquisition & Sound Recognition Lab (Prof. Sarah Creel), UCSD
-  # If you add logo files later, you can include a 'logo:' field per item.
+  - name: >-
+      B.S. Student, UC San Diego (Mathematics-CS and Cognitive Science — ML)
+  - name: >-
+      Research Assistant, MixLab (Prof. Zhiting Hu), UCSD
+  - name: >-
+      Undergraduate Researcher, Jennifer J. Sun Lab, Cornell University
+  - name: >-
+      Lead Researcher, Language Acquisition & Sound Recognition Lab (Prof. Sarah Creel), UCSD
 
 email: "juc036@ucsd.edu"
 cv_link: /assets/files/CV_Junrong_Chen_20250818.pdf
@@ -20,13 +23,15 @@ github: JunrongChen2004
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a senior undergraduate at UC San Diego (B.S. ’26) double-majoring in Mathematics–Computer Science and Cognitive Science (Machine Learning).
-    My research interests include world models, embodied AI, large vision/language models, computer vision, NLP, machine learning, and speech recognition.
+    I am a senior undergraduate at UC San Diego (B.S. '26) double-majoring in Mathematics–Computer Science
+    and Cognitive Science (Machine Learning). My research interests include world models, embodied AI,
+    large vision/language models, computer vision, NLP, machine learning, and speech recognition.
   </p>
   <p>
-    I work with <a href="https://zhiting.ucsd.edu/" target="_blank">Prof. Zhiting Hu</a> in MixLab on world model evaluation and planning (PAN-2, WM-ABench),
-    with <a href="https://www.cs.cornell.edu/~jjsun/" target="_blank">Prof. Jennifer J. Sun</a> on programmatic verification for text-to-image models,
-    and with <a href="https://creel-lab.ucsd.edu/" target="_blank">Prof. Sarah Creel</a> on bias and robustness in speech recognition.
+    I work with <a href="https://zhiting.ucsd.edu/" target="_blank">Prof. Zhiting Hu</a> in MixLab on world model evaluation
+    and planning (PAN-2, WM-ABench), with <a href="https://www.cs.cornell.edu/~jjsun/" target="_blank">Prof. Jennifer J. Sun</a>
+    on programmatic verification for text-to-image models, and with
+    <a href="https://creel-lab.ucsd.edu/" target="_blank">Prof. Sarah Creel</a> on bias and robustness in speech recognition.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -34,17 +39,16 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Optional caption here.
 
 education:
-  - name: University of California, San Diego
+  - name: "University of California, San Diego"
     # logo: /assets/images/badges/ucsd.png
     position: >-
-      B.S. in Mathematics–Computer Science & Cognitive Science (Machine Learning)
-    date: Sept. 2022 – Jun. 2026 (expected)
+      B.S. in Mathematics–Computer Science and Cognitive Science (Machine Learning)
+    date: "Sept. 2022 – Jun. 2026 (expected)"
 
 awards:
-  - name: UCSD Triton Research & Experiential Learning Scholarship (TRELS), Spring 2024
-    date: 2024
-  - name: UCSD Provost Honors (2022–2024)
-    date: 2024
-  - name: IEEE-Eta Kappa Nu (HKN)
-    date: 2024
-
+  - name: "UCSD Triton Research & Experiential Learning Scholarship (TRELS), Spring 2024"
+    date: "2024"
+  - name: "UCSD Provost Honors (2022–2024)"
+    date: "2024"
+  - name: "IEEE-Eta Kappa Nu (HKN)"
+    date: "2024"
