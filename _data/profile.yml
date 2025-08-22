@@ -40,7 +40,7 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
   - name: "University of California, San Diego"
-    # logo: /assets/images/badges/ucsd.png
+    logo: /assets/images/badges/ucsd.svg.png
     position: >-
       B.S. in Mathematics–Computer Science and Cognitive Science (Machine Learning)
     date: "Sept. 2022 – Jun. 2026 (expected)"
