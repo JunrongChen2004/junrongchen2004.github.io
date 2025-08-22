@@ -1,61 +1,50 @@
-primary_name: "Your Name"
+primary_name: "Junrong (Fiona) Chen"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "Junrong Chen"
 
 positions:
-- logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
-  name: Position 1 with logo
-- name: Position 2 without logo
+  - name: B.S. Student, UC San Diego (Mathematics–CS & Cognitive Science: ML)
+  - name: Research Assistant, MixLab (Prof. Zhiting Hu), UCSD
+  - name: Undergraduate Researcher, Jennifer J. Sun Lab, Cornell University
+  - name: Lead Researcher, Language Acquisition & Sound Recognition Lab (Prof. Sarah Creel), UCSD
+  # If you add logo files later, you can include a 'logo:' field per item.
 
-
-email: "your@email.com"
-# cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
-# wechat_qrcode: /assets/images/etc/wechat.jpg
-# wechat_prompt: >-
-#   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
-# linkedin: your-linked-in-id
-# orcid: 0000-0000-0000-0000
+email: "juc036@ucsd.edu"
+cv_link: /assets/files/CV_Junrong_Chen_20250818.pdf
+gscholar: EY55zZIAAAAJ
+github: JunrongChen2004
+# twitter:
+# linkedin:
+# orcid:
 
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    I am a senior undergraduate at UC San Diego (B.S. ’26) double-majoring in Mathematics–Computer Science and Cognitive Science (Machine Learning).
+    My research interests include world models, embodied AI, large vision/language models, computer vision, NLP, machine learning, and speech recognition.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    I work with <a href="https://zhiting.ucsd.edu/" target="_blank">Prof. Zhiting Hu</a> in MixLab on world model evaluation and planning (PAN-2, WM-ABench),
+    with <a href="https://www.cs.cornell.edu/~jjsun/" target="_blank">Prof. Jennifer J. Sun</a> on programmatic verification for text-to-image models,
+    and with <a href="https://creel-lab.ucsd.edu/" target="_blank">Prof. Sarah Creel</a> on bias and robustness in speech recognition.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
-portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+# portrait_caption: >-
+#   Optional caption here.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
-  position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
-
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+  - name: University of California, San Diego
+    # logo: /assets/images/badges/ucsd.png
+    position: >-
+      B.S. in Mathematics–Computer Science & Cognitive Science (Machine Learning)
+    date: Sept. 2022 – Jun. 2026 (expected)
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+  - name: UCSD Triton Research & Experiential Learning Scholarship (TRELS), Spring 2024
+    date: 2024
+  - name: UCSD Provost Honors (2022–2024)
+    date: 2024
+  - name: IEEE-Eta Kappa Nu (HKN)
+    date: 2024
+
