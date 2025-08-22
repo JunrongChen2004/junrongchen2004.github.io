@@ -4,10 +4,19 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
+{% comment %} Optional: if your theme has this include, it draws the big page header {% endcomment %}
+{% if site.includes and site.includes contains 'widgets/page_head.html' %}
+  {% include widgets/page_head.html title=page.title %}
+{% endif %}
+
 <div class="my-3 p-3 bg-white shadow-sm rounded-xl">
   <h5 class="mb-3">Instructional Apprentice (Undergraduate TA), UC San Diego</h5>
   <ul class="mb-0">
-    <li><strong>Statistical Analysis</strong> — Winter 2024 — Instructor: <a href="https://cogsci.ucsd.edu/people/faculty/drew-walker.html" target="_blank">Drew Ellen Walker</a></li>
-    <li><strong>Introduction to Research Methods</strong> — Spring 2024 — Instructor: <a href="https://cogsci.ucsd.edu/people/faculty/steven-barrera.html" target="_blank">Steven Barrera</a></li>
+    <li><strong>Statistical Analysis</strong> — Winter 2024 — Instructor:
+      <a href="https://cogsci.ucsd.edu/people/faculty/drew-walker.html" target="_blank" rel="noopener">Drew Ellen Walker</a>
+    </li>
+    <li><strong>Introduction to Research Methods</strong> — Spring 2024 — Instructor:
+      <a href="https://cogsci.ucsd.edu/people/faculty/steven-barrera.html" target="_blank" rel="noopener">Steven Barrera</a>
+    </li>
   </ul>
 </div>
