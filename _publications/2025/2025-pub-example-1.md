@@ -30,9 +30,10 @@ tldr: >-
   We introduce **WM-ABench**, a large-scale benchmark for atomic evaluation of world-model abilities in VLMs and
   show major gaps across perception and prediction skills.
 selected: true
-paper: "[https://aclanthology.org/2025.findings-acl.1342.pdf](https://aclanthology.org/2025.findings-acl.1342.pdf)"
-arxiv: "[https://arxiv.org/abs/2506.21876](https://arxiv.org/abs/2506.21876)"
-dataset: "[https://github.com/<project-if-public>](https://huggingface.co/datasets/maitrix-org/WM-ABench)"
-website: "[https://<project-site>](https://wm-abench.maitrix.org/)"
-cover: "/assets/images/covers/WM-ABench.png"
+
+links:
+  paper:   "https://aclanthology.org/2025.findings-acl.1342.pdf"
+  arXiv:   "https://arxiv.org/abs/2506.21876"
+  dataset: "https://huggingface.co/datasets/maitrix-org/WM-ABench"
+  website: "https://wm-abench.maitrix.org/"
 ---
