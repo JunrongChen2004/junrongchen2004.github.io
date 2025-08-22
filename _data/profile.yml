@@ -28,8 +28,8 @@ short_bio: >-
     large vision/language models, and speech recognition.
   </p>
   <p>
-    I work with <a href="https://zhiting.ucsd.edu/" target="_blank">Prof. Zhiting Hu</a> in MixLab on world model evaluation
-    and planning (PAN-2, WM-ABench), with <a href="https://www.cs.cornell.edu/~jjsun/" target="_blank">Prof. Jennifer J. Sun</a>
+    I work with <a href="https://zhiting.ucsd.edu/" target="_blank">Prof. Zhiting Hu</a> in MixLab on World Model Evaluation
+    and <a href="https://wm-abench.maitrix.org/", target="_blank">WM-ABench, with <a href="https://www.cs.cornell.edu/~jjsun/" target="_blank">Prof. Jennifer J. Sun</a>
     on programmatic verification for text-to-image models, and with
     <a href="https://creel-lab.ucsd.edu/" target="_blank">Prof. Sarah Creel</a> on bias and robustness in speech recognition.
   </p>
