@@ -4,7 +4,10 @@ title: "Teaching"
 permalink: /teaching/
 ---
 
-{% assign cards_by_group = site.showcase | sort: "date" | reverse | where: "show", true | group_by_exp: "item", "item.group" %}
+{% assign items = site.teaching | sort: 'date' | reverse %}
+{% for item in items %}
+  {% include widgets/showcase_item.html item=item %}
+{% endfor %}
 
 {% for group in cards_by_group %}
 <h1>{{ group.name }}</h1>
