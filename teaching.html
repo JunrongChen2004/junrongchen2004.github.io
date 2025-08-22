@@ -5,6 +5,13 @@ permalink: /teaching/
 ---
 
 {% assign items = site.teaching | sort: 'date' | reverse %}
-{% for item in items %}
-  {% include widgets/showcase_item.html item=item %}
-{% endfor %}
+{% if items and items.size > 0 %}
+  {% for item in items %}
+    {% include widgets/showcase_item.html item=item %}
+  {% endfor %}
+{% else %}
+  <div class="my-3 p-3 bg-white shadow-sm rounded-xl">
+    <p class="mb-0">No teaching entries yet — add markdown files under <code>_teaching/</code>.</p>
+  </div>
+{% endif %}
+
