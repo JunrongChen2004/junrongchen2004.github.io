@@ -34,4 +34,5 @@ paper: "[https://aclanthology.org/2025.findings-acl.1342.pdf](https://aclantholo
 arxiv: "[https://arxiv.org/abs/2506.21876](https://arxiv.org/abs/2506.21876)"
 dataset: "[https://github.com/<project-if-public>](https://huggingface.co/datasets/maitrix-org/WM-ABench)"
 website: "[https://<project-site>](https://wm-abench.maitrix.org/)"
+cover: "/assets/images/empty_300x200.png"
 ---
