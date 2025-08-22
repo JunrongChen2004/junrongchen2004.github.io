@@ -1,4 +1,4 @@
-primary_name: "Junrong (Fiona) Chen"
+primary_name: "Junrong Chen"
 secondary_name: ""
 navbar_name: "Junrong Chen"
 
@@ -10,7 +10,7 @@ positions:
   - name: >-
       Undergraduate Researcher, Jennifer J. Sun Lab, Cornell University
   - name: >-
-      Lead Researcher, Language Acquisition & Sound Recognition Lab (Prof. Sarah Creel), UCSD
+      Undergraduate Researcher, Language Acquisition & Sound Recognition Lab (Prof. Sarah Creel), UCSD
 
 email: "juc036@ucsd.edu"
 cv_link: /assets/files/CV_Junrong_Chen_20250818.pdf
@@ -25,7 +25,7 @@ short_bio: >-
   <p>
     I am a senior undergraduate at UC San Diego (B.S. '26) double-majoring in Mathematics–Computer Science
     and Cognitive Science (Machine Learning). My research interests include world models, embodied AI,
-    large vision/language models, computer vision, NLP, machine learning, and speech recognition.
+    large vision/language models, and speech recognition.
   </p>
   <p>
     I work with <a href="https://zhiting.ucsd.edu/" target="_blank">Prof. Zhiting Hu</a> in MixLab on world model evaluation
