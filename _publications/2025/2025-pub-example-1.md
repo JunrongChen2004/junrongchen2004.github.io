@@ -5,7 +5,7 @@ authors:
   - "Qiyue Gao*"
   - "Xinyu Pi*"
   - "Kevin Liu"
-  - "Junrong Chen"
+  - **"Junrong Chen"**
   - "Ruolan Yang"
   - "Xinqi Huang"
   - "Xinyu Fang"
