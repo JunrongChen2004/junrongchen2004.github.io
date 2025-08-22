@@ -11,4 +11,5 @@ authors:
 venue: "ISCA/ITG Workshop on Diversity in Large Speech and Language Models (LLMDiversity 2025) • Berlin, Germany"
 tldr: >-
   Compares Whisper ASR with human performance on child speech transcription; abstract accepted, full paper in preparation.
+selected: true
 ---
