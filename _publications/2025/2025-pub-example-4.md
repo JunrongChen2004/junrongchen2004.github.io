@@ -11,7 +11,7 @@ tldr: >-
   Study of Whisper ASR vs. human recognition across accents
 selected: true
 links:
-  paper: ""
+  paper: "https://osf.io/preprints/psyarxiv/8dhua_v1"
   osf-data: "https://osf.io/f8de7"
 
 ---
