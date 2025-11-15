@@ -37,5 +37,5 @@ authors:
   - "Eric P. Xing"
 selected: true
 links:
-  arxiv: "[https://osf.io/preprints/psyarxiv/8dhua_v1](https://arxiv.org/abs/2511.09057)"
+  arxiv: "https://arxiv.org/abs/2511.09057"
 ---
