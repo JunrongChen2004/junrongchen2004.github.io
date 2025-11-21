@@ -37,5 +37,6 @@ authors:
   - "Eric P. Xing"
 selected: true
 links:
-  arxiv: "https://arxiv.org/abs/2511.09057"
+    technical report: "https://arxiv.org/abs/2511.09057"
+    website: "https://panworld.ai/"
 ---
