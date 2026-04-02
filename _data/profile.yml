@@ -31,6 +31,11 @@ portrait_url: /assets/images/photos/portrait.jpg
 #   Optional caption here.
 
 education:
+  - name: "University of California, Irvine"
+    logo: /assets/images/badges/uci.svg.png
+    position: >-
+      CS PhD student 
+    date: "Sept. 2026 - "
   - name: "University of California, San Diego"
     logo: /assets/images/badges/ucsd.svg.png
     position: >-
