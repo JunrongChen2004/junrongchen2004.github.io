@@ -22,4 +22,5 @@ authors:
 selected: true
 links:
     technical report: "https://arxiv.org/abs/2603.25887"
+    GitHub: "https://github.com/MBZUAI-IFM/WR-Arena"
 ---
