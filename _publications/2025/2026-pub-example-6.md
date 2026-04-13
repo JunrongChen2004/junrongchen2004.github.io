@@ -2,10 +2,10 @@
 title: "World Reasoning Arena"
 date: 2026-03-30
 authors:
-  - "PAN Team Institute of Foundation Models: Qiyue Gao"
-  - "Kun Zhou"
-  - "Jiannan Xiang"
-  - "Zihan Liu"
+  - "PAN Team Institute of Foundation Models: Qiyue Gao*"
+  - "Kun Zhou*"
+  - "Jiannan Xiang*"
+  - "Zihan Liu*"
   - "Dequan Yang"
   - "Junrong Chen"
   - "Arif Ahmad"
