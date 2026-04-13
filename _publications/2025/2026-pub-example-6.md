@@ -21,5 +21,5 @@ authors:
   - "Eric Xing"
 selected: true
 links:
-    technical report: "[https://arxiv.org/abs/2511.09057](https://arxiv.org/abs/2603.25887)"
+    technical report: "https://arxiv.org/abs/2603.25887"
 ---
