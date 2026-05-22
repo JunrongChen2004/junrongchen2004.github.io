@@ -1,4 +1,18 @@
-{% assign news_by_year = site.news | sort: "date" | reverse | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
+{% assign now_ts = site.time | date: "%s" %}
+{% assign three_years_sec = 94608000 %}
+{% assign cutoff_ts = now_ts | minus: three_years_sec %}
+
+{% assign recent_news = "" | split: "" %}
+{% assign all_news = site.news | sort: "date" | reverse %}
+
+{% for item in all_news %}
+  {% assign item_ts = item.date | date: "%s" %}
+  {% if item_ts >= cutoff_ts %}
+    {% assign recent_news = recent_news | push: item %}
+  {% endif %}
+{% endfor %}
+
+{% assign news_by_year = recent_news | slice: 0, include.limit | group_by_exp: "item", "item.date | date: '%Y'" -%}
 
 <div class="my-3 bg-white shadow-sm rounded-xl">
     <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-rss"></i> News</h6>
