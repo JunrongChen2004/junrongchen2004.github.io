@@ -8,7 +8,6 @@ navbar_title: Home
 {% include widgets/debug_repo_name.html %}
 
 {% include widgets/debug_url.html %}
-{% include widgets/visitor_map.html %}
 
 {% if site.data.display.homepage.show_experience %}
     {% include widgets/experience_card.html %}
@@ -30,3 +29,5 @@ navbar_title: Home
         limit=5
     %}
 {% endif %}
+
+{% include widgets/visitor_map.html %}
