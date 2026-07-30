@@ -1,6 +1,6 @@
 ---
 title: "Fin-RATE: A Real-world Financial Analytics and Tracking Evaluation Benchmark for LLMs on SEC Filings"
-date: 2026-0517
+date: 2026-05-17
 authors:
   - "Yidong Jiang"
   - "Junrong Chen"
