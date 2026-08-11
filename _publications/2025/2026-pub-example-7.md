@@ -14,7 +14,8 @@ authors:
   - "Rex Ying"
 selected: true
 links:
-    paper: "[https://arxiv.org/abs/2603.25887](https://arxiv.org/pdf/2602.07294)"
+    arXiv: "[https://arxiv.org/abs/2603.25887](https://arxiv.org/pdf/2602.07294)"
+    Paper: "https://dl.acm.org/doi/10.1145/3770855.3817528"
     GitHub: "[https://github.com/MBZUAI-IFM/WR-Arena](https://github.com/jyd777/Fin-RATE)"
     Dataset: "https://huggingface.co/datasets/GGLabYale/Fin-RATE"
 ---
