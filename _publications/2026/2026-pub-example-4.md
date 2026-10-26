@@ -8,7 +8,7 @@ authors:
   - "Sarah C. Creel"
 selected: true
 links:
-    paper: "https://pubs.aip.org/asa/jasa/article/160/4/3477/3407283/Whisper-automatic-speech-recognition-and-humans"
+    Paper: "https://pubs.aip.org/asa/jasa/article/160/4/3477/3407283/Whisper-automatic-speech-recognition-and-humans"
     preprints: "https://osf.io/preprints/psyarxiv/8dhua_v1"
     osf-data: "https://osf.io/f8de7"
 
